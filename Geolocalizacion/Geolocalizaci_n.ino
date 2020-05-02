@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
 #include <WifiLocation.h>
 
-#define GOOGLE_KEY "AIzaSyDaH67Mz8ih3vDOJTNl8eaWea4IDf3z2wE" // Clave API Google Geolocation
+#define GOOGLE_KEY "___" // Clave API Google Geolocation
 #define SSID "Galileo" // SSID de tu red WiFi
 #define PASSWD "" // Clave de tu red WiFi
 #define HOSTFIREBASE "nodemcu-wifi-geolocalization.firebaseio.com" // Host o url de Firebase
